@@ -32,7 +32,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-IsVirtualBomDocumentRemoved=0
+IsVirtualBomDocumentRemoved=1
 OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
@@ -100,7 +100,7 @@ GenerateClassCluster=0
 DocumentUniqueId=WOOIZNYU
 
 [Document4]
-DocumentPath=Controller_Sheet.Harness
+DocumentPath=Camera_Sheet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -117,7 +117,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document5]
-DocumentPath=Camera_Sheet.Harness
+DocumentPath=Controller_Sheet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -132,6 +132,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document6]
+DocumentPath=LCD_Sheet.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OLVMIAWN
 
 [Configuration1]
 Name=Sources
