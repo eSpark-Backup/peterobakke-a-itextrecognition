@@ -150,6 +150,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XFAPQGHH
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for AI powered text recognition\Design Rule Check - AI_Watch_PCB.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
