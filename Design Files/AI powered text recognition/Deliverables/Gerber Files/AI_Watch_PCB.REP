@@ -400,3 +400,38 @@ Used DCodes :
     D122
 *************************************************************
 
+*************************************************************
+Generating : Drill Drawing
+      File : AI_Watch_PCB.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D131
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : AI_Watch_PCB.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D131
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : AI_Watch_PCB.GM
+
+
+Used DCodes :
+    D132
+*************************************************************
+
