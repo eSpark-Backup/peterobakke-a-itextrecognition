@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: AI_Watch_PCB.PcbDoc   11/08/2025  2:36:49 pm
+NCDrill File Report For: AI_Watch_PCB.PcbDoc   01/09/2025  8:38:23 pm
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,8 +7,8 @@ ASCII RoundHoles File : AI_Watch_PCB.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      8mil (0.2mm)                                              Round             171       PTH        10.65inch (270.62mm)
+T1      8mil (0.2mm)                                              Round             164       PTH        10.62inch (269.67mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              171
+Totals                                                                              164
 
-Total Processing Time (hh:mm:ss) : 00:00:00
+Total Processing Time (hh:mm:ss) : 00:00:01
